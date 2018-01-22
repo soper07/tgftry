@@ -8,7 +8,7 @@ public class Application {
 		}
 
 		System.out.println(analyze());
-		System.out.println(analyze());
+		System.out.println(process());
 
 }
 
