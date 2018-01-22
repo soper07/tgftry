@@ -6,9 +6,16 @@ public class Application {
 		for(int i = 0; i< 20; i++) {
 			System.out.println(process());
 		}
+
+		System.out.println(analyze());
+
 }
 
 private static char[] process() {
+	return null;
+}
+
+private static char[] analyze() {
 	return null;
 }
 }
