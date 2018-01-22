@@ -9,10 +9,7 @@ public class Application {
 
 		System.out.println(analyze());
 		System.out.println(analyze());
-<<<<<<< Upstream, based on origin/master
 
-=======
->>>>>>> fc95d76 dfsa
 }
 
 private static char[] process() {
